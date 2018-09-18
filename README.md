@@ -1,2 +1,5 @@
 # hello-world
-just do it if u want to do it.
+
+Hi native of earth!
+
+i'm from Indonesia. let me introduce myself, my full name is Muhammad Akram Fais. i live at Medan.
